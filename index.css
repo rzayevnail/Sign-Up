@@ -1,0 +1,66 @@
+
+.btn {
+  color: black;
+  background-color: green;
+  height: auto;
+}
+
+#id {
+  padding: 10px;
+}
+
+.my-button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 10px;
+  height: 20px;
+  width: 70px;
+}
+
+.my-button:hover {
+  background-color: #45a049;
+}
+.img-fluid {
+  flex: 1;
+  text-align: right;
+  padding: 120px;
+  height: 500px;
+  width: 800px;
+}
+
+.div1 {
+  padding: 200px 100px;
+  height: 500px;
+  width: 800px;
+  text-align: center;
+  float: left;
+  border: #45a049;
+  font-size: 24px;
+}
+
+.div2 {
+  float: right;
+  padding: 100px 15px;
+  display: flex;
+}
+
+.div {
+  display: flex;
+}
+
+.div input {
+  font-size: 20px;
+  width: 800;
+}
+
+.label {
+  font-size: 20px;
+}
